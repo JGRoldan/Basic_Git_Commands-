@@ -1,6 +1,6 @@
 # Basic Git Commands 
 
-**Work in progress**
+**Work in progress** :love_you_gesture:
 
 ### Comandos básicos  
 
