@@ -22,6 +22,8 @@
 
 ` git checkout <nombre_de_rama>` : _Pasar de una rama a otra._
 
+` git checkout -b <nombre_de_rama>` : _Crea una nueva rama y hace switch a esa rama (Combinacion de los dos comandos de arriba)._
+
 ` git merge <nombre_de_rama_a_merge>` : _Merge a la rama PRINCIPAL (main o master)._
 
 ` git log ` : _Muestra los ID de los commits, author & date_
