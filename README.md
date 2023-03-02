@@ -18,11 +18,15 @@
 
 ### Ramas y fusiones
 
+` git branch` : _Muestra las ramas existentes._
+
 ` git branch <nombre_de_rama>` : _Crea una nueva rama._
 
 ` git checkout <nombre_de_rama>` : _Pasar de una rama a otra._
 
 ` git checkout -b <nombre_de_rama>` : _Crea una nueva rama y hace switch a esa rama (Combinacion de los dos comandos de arriba)._
+
+` git branch -m <cambiar_nombre_rama>` : _Cambia el nombre de la rama. Primero hay que ir a la rama que querramos modificar._
 
 ` git merge <nombre_de_rama_a_merge>` : _Merge a la rama PRINCIPAL (main o master)._
 
