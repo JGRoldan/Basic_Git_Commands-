@@ -35,6 +35,7 @@
 ` git branch -d <nombre_rama>` : _Eliminar una rama LOCAL._
 
 ` git log ` : _Muestra los ID de los commits, author & date_
+` git log --oneline` : _Muestra los primeros caracteres del ID de los commits y el commit realizado en cada rama._
 
 
 ### Obtener un repositorio remoto existente 
