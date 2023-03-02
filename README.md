@@ -28,6 +28,8 @@
 
 ` git branch -m <cambiar_nombre_rama>` : _Cambia el nombre de la rama. Primero hay que ir a la rama que querramos modificar._
 
+` git branch -m <nombre_rama_anterior> <nombre_rama_NUEVO>` : _Cambia el nombre de la rama sin tener que ir a la rama a modificar como el caso de arriba._
+
 ` git merge <nombre_de_rama_a_merge>` : _Merge a la rama PRINCIPAL (main o master)._
 
 ` git log ` : _Muestra los ID de los commits, author & date_
