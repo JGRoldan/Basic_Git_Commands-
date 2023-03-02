@@ -27,3 +27,7 @@
 ### Obtener un repositorio remoto existente 
 
 ` git clone <link repositorio remoto>` : _Clona un repositorio remoto a un archivo local._
+
+
+### Áreas y estados de los archivos
+![Sin título-2023-02-28-1349](https://user-images.githubusercontent.com/71336562/222295682-d5b34913-f4bb-46e9-8d68-37ca1b699374.png)
