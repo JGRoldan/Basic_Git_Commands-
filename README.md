@@ -2,6 +2,9 @@
 
 ## **Work in progress** :love_you_gesture:
 
+### Áreas y estados de los archivos
+![Sin título-2023-02-28-1349](https://user-images.githubusercontent.com/71336562/222295682-d5b34913-f4bb-46e9-8d68-37ca1b699374.png)
+
 ### Comandos básicos  
 
 ` git init ` : _Crea un repositorio git vacio o reinicializa uno existente._
@@ -29,5 +32,4 @@
 ` git clone <link repositorio remoto>` : _Clona un repositorio remoto a un archivo local._
 
 
-### Áreas y estados de los archivos
-![Sin título-2023-02-28-1349](https://user-images.githubusercontent.com/71336562/222295682-d5b34913-f4bb-46e9-8d68-37ca1b699374.png)
+
