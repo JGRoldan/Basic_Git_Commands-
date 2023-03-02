@@ -32,6 +32,8 @@
 
 ` git merge <nombre_de_rama_a_merge>` : _Merge a la rama PRINCIPAL (main o master)._
 
+` git branch -d <nombre_rama>` : _Eliminar una rama LOCAL._
+
 ` git log ` : _Muestra los ID de los commits, author & date_
 
 
