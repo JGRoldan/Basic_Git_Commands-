@@ -5,7 +5,7 @@
 ### Áreas y estados de los archivos
 ![Sin título-2023-02-28-1349](https://user-images.githubusercontent.com/71336562/222295682-d5b34913-f4bb-46e9-8d68-37ca1b699374.png)
 
-### Comandos básicos  
+### Comandos básicos  :pushpin:
 
 ` git init ` : _Crea un repositorio git vacio o reinicializa uno existente._
 
@@ -16,7 +16,7 @@
 ` git commit -m "Comentario Aca..." . ` : _Registra los cambios del repositorio local y se añade un mensaje representativo._
 
 
-### Ramas y fusiones
+### Ramas y fusiones  :pushpin:
 
 ` git branch` : _Muestra las ramas existentes._
 
@@ -38,14 +38,14 @@
 
 ` git log --oneline` : _Muestra los primeros caracteres del ID de los commits y el commit realizado en cada rama._
 
-#### Creacion de rama y fusión con rama principal
+#### Creacion de rama y fusión con rama principal  :pushpin:
 
 ![Untitled-2023-02-05-1425](https://user-images.githubusercontent.com/71336562/222299509-11ec1b6a-91a6-4cf4-9a9e-8ef64332183a.png)
 
 ![Untitled-2023-02-05-1425](https://user-images.githubusercontent.com/71336562/222300522-ed0eb2a1-e555-4d42-b5e2-acecc87334ee.png)
 
 
-### Obtener un repositorio remoto existente 
+### Obtener un repositorio remoto existente  :pushpin:
 
 ` git clone <link repositorio remoto>` : _Clona un repositorio remoto a un archivo local._
 
