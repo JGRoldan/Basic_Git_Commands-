@@ -49,5 +49,7 @@
 
 ` git clone <link repositorio remoto>` : _Clona un repositorio remoto a un archivo local._
 
+### Obtener rama de repositorio remoto existente  :pushpin:
+` git clone --branch <nombre-rama> --single-branch URL_REPO <nombre_repo> `
 
 
